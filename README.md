@@ -2,6 +2,8 @@
 
 SysMon Dashboard is a web-based application built with React for monitoring system logs and metrics in real time. It provides a terminal-like interface for viewing live logs, filtering logs based on time ranges, and visualizing system metrics using charts. The application supports infinite scrolling, log pagination, and custom time-range selection.
 
+## Hosted on
+<https://sys-mon-dashboard.vercel.app/>
 ## Features
 
 ### Logs
